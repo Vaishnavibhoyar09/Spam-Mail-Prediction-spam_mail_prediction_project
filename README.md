@@ -1,1 +1,2 @@
 # Spam-Mail-Prediction-spam_mail_prediction_project
+This project is an spam mail detector in which the model predicts that whether the mail you recieved belongs to spam category or not. In this project, I have buildt a LinearSVC model with the help of various libraries like NumPy, Pandas and ScikitLearn. I have also used TfidfVectorizer for extracting various text features. I got an amazing accuracy of 99.95% on training data and 98.56% accuracy on testing data while predicting for a mail category to which a particular mail belongs to.
